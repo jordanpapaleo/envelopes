@@ -5,3 +5,11 @@ export default class Transaction {
     })
   }
 }
+
+/*
+{
+  date,
+  amount,
+  type: envelope
+}
+*/
